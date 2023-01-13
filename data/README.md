@@ -1,0 +1,1 @@
+Verb list here derived from the Perseus UD treebanks available under the Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Generic License. Files available here: https://github.com/UniversalDependencies/UD_Latin-Perseus
